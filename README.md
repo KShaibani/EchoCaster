@@ -10,7 +10,7 @@ Features:
     - 5-star rating system for tracks
     - Configurable keybindings
 
-Roadmap:
+Roadmap (2024):
 
     - Playlist creation and management
     - Library organization (artists, albums)
