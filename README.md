@@ -1,4 +1,4 @@
-## EchoCaster: A Lightweight Terminal Music Player Written in Rust
+## EchoCaster: A Lightweight Terminal Music Player
 
 EchoCaster is a command-line audio player designed for efficiency and simplicity.  It focuses on playing your local music collection with a clean, customizable interface.
 
